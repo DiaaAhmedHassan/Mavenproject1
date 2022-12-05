@@ -46,6 +46,7 @@ public class Mavenproject1 {
         }
        
        
+        System.out.println("The program ended");
        
         
         
