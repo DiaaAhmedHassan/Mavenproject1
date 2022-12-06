@@ -47,8 +47,10 @@ public class Mavenproject1 {
        
        
         System.out.println("The end of the program! ");
+        int base = ex_one.nextInt();
+        int power = ex_one.nextInt();
         
-        int num = power(2,3);
+        int num = power(base,power);
          System.out.println(num);
        
        
